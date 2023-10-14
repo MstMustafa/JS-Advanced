@@ -1,6 +1,6 @@
 # JS-Advanced Repository
 
-This repository contains tasks and projects related to the JavaScript Advanced course by <span style="color: yellow;">SoftUni</span>.
+This repository contains tasks and projects related to the JavaScript Advanced course by SoftUni.
 
 
 ## Overview
