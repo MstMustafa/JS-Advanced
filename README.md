@@ -1,4 +1,4 @@
-# JS-Advanced Repository
+<span style="color: orange;"># JS-Advanced Repository</span>
 
 This repository contains tasks and projects related to the JavaScript Advanced course by SoftUni.
 
