@@ -7,8 +7,8 @@
 
 
 ## Overview
-- <span style="color: #8A2BE2;">Classes</span>: This section covers tasks related to using classes and object-oriented programming in JavaScript.
-- <span style="color: #8A2BE2;">Unit Testing</span>: Here, you'll find tasks and projects related to testing JavaScript code. We use [Mocha](https://mochajs.org/) as our test framework and [Chai](https://www.chaijs.com/) for assertions.
+- **Classes**: This section covers tasks related to using classes and object-oriented programming in JavaScript.
+- **Unit Testing**: Here, you'll find tasks and projects related to testing JavaScript code. We use [Mocha](https://mochajs.org/) as our test framework and [Chai](https://www.chaijs.com/) for assertions. 
 
 
 ## How to Use 
