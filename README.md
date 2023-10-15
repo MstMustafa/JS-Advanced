@@ -1,4 +1,5 @@
-![JS-Advanced Repository](https://via.placeholder.com/800x100/F7DF1E/000000?text=JS-Advanced+Repository)
+![js_repository_advanced](https://github.com/MstMustafa/JS-Advanced/assets/141492875/3f4f5467-281c-4482-9bc3-f13b898d56f6)
+
 
 <div align="center">
     <p>This repository contains tasks and projects related to the JavaScript Advanced course by SoftUni.</p>
