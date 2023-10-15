@@ -1,6 +1,8 @@
 ![JS-Advanced Repository](https://via.placeholder.com/800x100/FFA500/000000?text=JS-Advanced+Repository)
 
-This repository contains tasks and projects related to the JavaScript Advanced course by SoftUni.
+<div align="center">
+    <p>This repository contains tasks and projects related to the JavaScript Advanced course by SoftUni.</p>
+</div>
 
 
 
