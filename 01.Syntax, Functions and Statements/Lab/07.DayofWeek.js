@@ -1,8 +1,6 @@
 function dayOfWeek(day) {
   
-    const formattedDay = day.charAt(0).toUpperCase() + day.slice(1).toLowerCase();
-    
-    switch (formattedDay) {
+    switch (day) {
         case 'Monday':
             return 1;
         case 'Tuesday':
