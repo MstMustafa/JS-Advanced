@@ -5,3 +5,4 @@ function findBiggestElement(matrix) {
     let maxElement = Math.max(...flatArray);
     
     return maxElement;
+}
